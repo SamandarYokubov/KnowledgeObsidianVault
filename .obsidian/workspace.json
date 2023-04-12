@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container Basic Operations.md",
+                "file": "Docker/Container Basic Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7318b0c5ae053dfc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d4232aab27c9326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Creating own docker image.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container Basic Operations.md",
+                "file": "Docker/Creating own docker image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container Basic Operations.md",
+                "file": "Docker/Creating own docker image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container Basic Operations.md"
+                "file": "Docker/Creating own docker image.md"
               }
             }
           }
@@ -146,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac68e9ae71c69f41",
+  "active": "658da85c8c7a86ee",
   "lastOpenFiles": [
-    "Container Basic Operations.md",
+    "Docker/Container Basic Operations.md",
+    "Docker/Docker.md",
+    "Docker/Creating own docker image.md",
     "Untitled",
     "Docker"
   ]

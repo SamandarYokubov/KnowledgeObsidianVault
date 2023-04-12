@@ -2,6 +2,7 @@
 
 **docker images** или **docker image ls** — посмотреть список образов ([ссылка](https://docs.docker.com/engine/reference/commandline/images/), [ссылка](https://docs.docker.com/engine/reference/commandline/image_ls/))
 
+
 **docker rmi <образ> [образ...]** или docker image rm <образ> [образ...] — удалить образ(ы) ([ссылка](https://docs.docker.com/engine/reference/commandline/rmi/), [ссылка](https://docs.docker.com/engine/reference/commandline/image_rm/))
 
 ---
@@ -31,3 +32,8 @@
 **docker exec <контейнер> команда** — запустить команду в работающем контейнер ([ссылка](https://docs.docker.com/engine/reference/commandline/exec/))
 
 docker exec **-it** <контейнер> **bash** — запустить bash процесс и «войти» в контейнер ([ссылка](https://docs.docker.com/engine/reference/commandline/exec/#run-docker-exec-on-a-running-container))
+
+
+
+-------------------------------------------------------------------------------
+[Docker]
